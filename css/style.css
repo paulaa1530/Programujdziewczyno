@@ -16,6 +16,10 @@ nav {
   font-weight: 600;
 }
 
+.more {
+  display: none;
+}
+
 .navbar-brand {
   color: #ea6c56;
   text-decoration: none;
@@ -181,7 +185,7 @@ nav {
 .plan-description {
   height: 70rem;
   margin-top: 4rem;
-  font-weight: bold;
+  font-weight: bold;`
 }
 
 .plan-description h3 {
